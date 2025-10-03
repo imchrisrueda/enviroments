@@ -1,3 +1,6 @@
+---
+
+```markdown
 # Entornos de desarrollo
 
 Este repositorio contiene la configuración de mis entornos de trabajo organizados en dos formatos:
