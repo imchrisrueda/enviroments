@@ -26,8 +26,7 @@ Actualmente gestiono tres entornos principales:
 │  └─ uv/
 │     ├─ ai-gpu-requirements.txt
 │     ├─ dias-requirements.txt
-│     └─ manim-requirements.txt
-└─ src/   # código de los proyectos
+└─     └─ manim-requirements.txt
 
 ````
 
