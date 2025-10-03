@@ -1,7 +1,3 @@
-Perfecto. Te armo un **`README.md` completo**, pensado para tu repo, explicando cómo reproducir tus entornos tanto con **mamba/conda** como con **uv**. Lo dejo en formato Markdown, listo para que lo uses tal cual.
-
----
-
 ```markdown
 # Entornos de desarrollo
 
