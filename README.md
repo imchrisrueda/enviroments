@@ -18,7 +18,7 @@ Actualmente gestiono tres entornos principales:
 ```
 
 .
-├─ envs/
+├─ enviroments/
 │  ├─ conda/
 │  │  ├─ ai-gpu.yml
 │  │  ├─ dias.yml
