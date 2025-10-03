@@ -1,8 +1,3 @@
-Perfecto. Te armo un **`README.md` completo**, pensado para tu repo, explicando cómo reproducir tus entornos tanto con **mamba/conda** como con **uv**. Lo dejo en formato Markdown, listo para que lo uses tal cual.
-
----
-
-```markdown
 # Entornos de desarrollo
 
 Este repositorio contiene la configuración de mis entornos de trabajo organizados en dos formatos:
@@ -48,7 +43,7 @@ Actualmente gestiono tres entornos principales:
 2. Instalar **mamba** en el entorno base:
    ```bash
    conda install -n base -c conda-forge mamba
-````
+   ````
 
 ### uv (alternativa ligera)
 
